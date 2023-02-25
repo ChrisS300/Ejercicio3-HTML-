@@ -1,8 +1,8 @@
-    #c_elemento-1, #m_elemento-1{
+    #elemento-1{
         color: red;
        
     }
 
-    #c_elemento-1{
+ul li#elemento-1{
         font-size: 2rem;
     }
